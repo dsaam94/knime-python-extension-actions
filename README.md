@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/knime/knime-python-extension-template/actions/workflows/ci.yml/badge.svg)](https://github.com/knime/knime-python-extension-template/actions/workflows/ci.yml)
 
+[![Code Format Check](https://github.com/dsaam94/knime-python-extension-actions/actions/workflows/code-ql-check-ci.yml/badge.svg)](https://github.com/dsaam94/knime-python-extension-actions/actions/workflows/code-ql-check-ci.yml)
+
 This repository is maintained by the [KNIME Team Rakete](mailto:team-rakete@knime.com).
 
 It provides a template for creating KNIME Python extensions.
