@@ -10,7 +10,8 @@ select = [
     "W", # Warning(W), relevant to give out pycode style warnings.
     "N999", # N999 is a rule that checks for invalid module name
     "S105",
-    "S106"
+    "S106",
+    "S107"
     ]
 # a sample exception added for certain rules to be ignored by ruff, despite having the category selected selected
 ignore = ["E501"]
