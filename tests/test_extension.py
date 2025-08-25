@@ -5,7 +5,7 @@ import knime.extension.testing as ktest
 from pandas.testing import assert_frame_equal
 
 from src.extension import TemplateNode
-
+API_KEY="gdgfdgfd24345)(&)KJFFFGKJ"
 
 class TestTemplateNode(unittest.TestCase):
     """Simple, runnable examples for the minimal TemplateNode."""
