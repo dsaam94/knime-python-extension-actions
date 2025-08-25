@@ -18,7 +18,7 @@ on:
 
 jobs:
   build:
-    name: Bundle extension for update site
+    name: Extension Bundling Check
     runs-on: ubuntu-latest
     if: ${{ github.event_name != 'workflow_dispatch' }}
     steps:
