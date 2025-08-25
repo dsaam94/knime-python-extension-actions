@@ -14,5 +14,3 @@ def build_auth_header(token: str) -> dict:
 
 # Use the token so it is not flagged as an unused variable by linters.
 AUTH_HEADER = build_auth_header(GITHUB_TOKEN)
-
-
