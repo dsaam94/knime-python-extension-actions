@@ -6,7 +6,7 @@ from pandas.testing import assert_frame_equal
 
 from src.extension import TemplateNode
 
-API_KEY = "gdgfdgfd24345)(&)KJFFFGKJ"
+password = "1233374628742"
 
 
 class TestTemplateNode(unittest.TestCase):
